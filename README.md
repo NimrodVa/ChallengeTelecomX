@@ -36,22 +36,20 @@ Nota: Las carpetas data/, images/ e informe/ se crean automáticamente al ejecut
 A continuación se muestran algunos de los gráficos más representativos del análisis y los hallazgos clave derivados de ellos.
 
 1. Distribución global de Churn
-https://images/churn_global.png
-
 Insight: La tasa de cancelación general es del 26.5%, lo que indica un problema significativo que requiere atención prioritaria.
 
 2. Comparación de antigüedad y cargo mensual según Churn
-https://images/boxplots_churn.png
+
 
 Insight: Los clientes que cancelan tienen una menor antigüedad promedio (18 meses vs. 38 meses de los que permanecen) y pagan cargos mensuales ligeramente superiores (74$ vs. 61$). Esto sugiere que los clientes nuevos y aquellos con planes más costosos son más propensos a irse.
 
 3. Tasa de churn por tipo de contrato
-https://images/churn_contract.png
+
 
 Insight: El contrato mes a mes presenta una tasa de churn del 43%, mientras que los contratos de uno y dos años tienen tasas del 11% y 3% respectivamente. Fomentar contratos de largo plazo podría ser una estrategia efectiva de retención.
 
 4. Matriz de correlación
-https://images/correlation_matrix.png
+
 
 Insight: Las variables más correlacionadas con el churn son el tipo de contrato (negativa) y la antigüedad (negativa). Los cargos mensuales tienen una correlación positiva débil.
 
